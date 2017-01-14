@@ -1,0 +1,2 @@
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Troelsen\Hibi\Hibi\bin\Debug\Hibi.exe.config
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Troelsen\Hibi\Hibi\bin\Debug\Hebi.exe.config
